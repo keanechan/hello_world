@@ -2,5 +2,4 @@
 
 Some Stuff
 
-About te magic of the worlds apart.
-\
+About the magic of the worlds apart.
